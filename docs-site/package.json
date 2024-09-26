@@ -1,0 +1,38 @@
+{
+  "name": "react-datepicker-docs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "highlight.js": "^11.10.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-live": "^4.1.7"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "raw-loader": "^4.0.2",
+    "react-app-rewired": "^2.2.1",
+    "react-scripts": "5.0.1",
+    "sass": "^1.79.3"
+  },
+  "resolutions": {
+    "strip-ansi": "6.0.1"
+  },
+  "packageManager": "yarn@4.3.1"
+}
